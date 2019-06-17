@@ -5,11 +5,11 @@ By Chaining
 ## run this file
 ### initialization 
 ``` sh
-let Hashtable = new table(4 , 0) 
+let HashTable = new table(4 , 0) 
 /*
-	-here first argument is array size
-	-second argument is element index for hashing and finding object
-	-here 0th element of object is use to hashing and finding whole object
+  -here first argument is array size
+  -second argument is element index for hashing and finding object
+  -here 0th element of object is use to hashing and finding whole object
 */
 ```
 ### create data
